@@ -1418,12 +1418,7 @@
 		letter-spacing: 0.075em;
 		line-height: 1.65em;
 	}
-    h2{
-        color: #8E8892;
-        }
         
-        
-
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea {
