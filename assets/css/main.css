@@ -1456,6 +1456,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
+            transform: scale(1.2)
 		}
 
 	strong, b {
