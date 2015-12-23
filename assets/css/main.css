@@ -1701,7 +1701,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0 0 0 2px #3076B3;
 		}
 
 	.select-wrapper {
@@ -3793,7 +3793,7 @@
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: rgba(5, 133, 243, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
