@@ -2642,7 +2642,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #007708;
 			color: #c7ebe8;
             
 		}
@@ -2801,7 +2801,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #509357;
 			color: #d3d4e4;
 		}
 
@@ -3793,7 +3793,7 @@
 	}
 
 	body.landing #footer {
-		background-color: rgba(5, 133, 243, 0.9);
+		background-color: rgba(4, 154, 48, 0.9);
 	}
 
 	body.is-mobile.landing #page-wrapper {
